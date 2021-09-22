@@ -19,5 +19,7 @@ I'm currently a PhD Candidate in <a href="https://cse.ucsd.edu/">Computer Scienc
 
 I previously received my MS degree in <a href="https://cse.ucsd.edu/">Computer Science and Engineering</a> and my BS degree in <a href="https://cogsci.ucsd.edu/">Cognitive Science</a>, both from <a href="https://ucsd.edu/">UC San Diego</a>.
 
-My research lives at the intersection of human behavior, technology, and design. I have been trained as a Biomedical Informatician (who is thankful for the three years of support I recieved as an <a href="https://www.nlm.nih.gov/ep/GrantTrainInstitute.html">NIH NLM Pre-Doctoral Fellow</a>) so I regularly apply myself within the healthcare domain, working on problems ranging from symptom detection and care-coordination to health equity and technology usability. As a computer scientist and technologiest I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer to every problem.
+My research lives at the intersection of human behavior, technology, and design. I have been trained as a Biomedical Informatician (and am thankful for the support I recieved as an <a href="https://www.nlm.nih.gov/ep/GrantTrainInstitute.html">NIH NLM Pre-Doctoral Fellow</a>). I regularly apply myself within the healthcare domain, working on problems ranging from symptom detection and care-coordination to health equity and technology usability.
+
+As a computer scientist and technologiest I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer to every problem.
 
