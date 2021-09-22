@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: <a href="https://www.ubicomp.ucsd.edu/">Human-Centered and Ubiquitous Computing Lab</a> | <a href="https://designlab.ucsd.edu/">Design Lab</a>
+description: Member of the <a href="https://www.ubicomp.ucsd.edu/">Human-Centered and Ubiquitous Computing Lab</a> and the <a href="https://designlab.ucsd.edu/">Design Lab</a>.
 
 profile:
-  align: left
+  align: right
   image: profile_srick.jpg
   address: >
-    <p>San Diego, CA 92093</p>
+    <p></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
