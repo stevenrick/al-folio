@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Member of the <a href="https://hxi-ucsd.netlify.app/">Human-centered eXtended Intelligence (HXI) Research Lab</a> and the <a href="https://designlab.ucsd.edu/">Design Lab</a> at <a href="https://ucsd.edu/">UC San Diego</a>.
+description: Member of the <a href="https://hxi-ucsd.netlify.app/">HXI Research Lab</a> and the <a href="https://designlab.ucsd.edu/">Design Lab</a> at <a href="https://ucsd.edu/">UC San Diego</a>.
 
 profile:
   align: right
