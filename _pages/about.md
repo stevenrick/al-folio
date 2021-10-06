@@ -27,4 +27,4 @@ I previously worked with <a href="https://researcher.watson.ibm.com/researcher/v
 
 As a computer scientist and technologiest I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer to every problem.
 
-When I am outside of work I enjoy hiking, SCUBA diving, photography, and generally working with my hands.
+Outside of work I enjoy hiking, SCUBA diving, photography, and generally working with my hands.
