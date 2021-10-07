@@ -17,11 +17,11 @@ social: true  # includes social icons at the bottom of the page
 
 I'm currently a Ph.D. Candidate in <a href="https://cse.ucsd.edu/">Computer Science and Engineering</a> specializing in Human-Centered Design. I am advised by <a href="http://weibel.ucsd.edu/">Nadir Weibel</a>.
 
-My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration - treating technology as a teammate.
+My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
 
-My work spans the fields of user experience, biomedical informatics, human behavior sensing, and applies them to real world problems.
+My work spans the fields of user experience, biomedical informatics, human behavior sensing, and applied machine learning.
 
-As a computer scientist and technologist I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer. Real solutions require first understanding the problem and the humans who face it.
+As a computer scientist and technologist I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer. Before crafting answers you must understand the problem and people who face it.
 
 Education
 - M.S. in <a href="https://cse.ucsd.edu/">Computer Science and Engineering</a>
