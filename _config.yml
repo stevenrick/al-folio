@@ -29,7 +29,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # Layout
 # -----------------------------------------------------------------------------
 
-navbar_fixed: true
+navbar_fixed: false
 footer_fixed: false
 
 # Dimensions
@@ -62,11 +62,12 @@ blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
-dblp_url: # your DBLP profile url
+dblp_url: https://dblp.org/pid/157/4006 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Feel free to connect with me on your favorite platform.<br>
+  Feel free to connect with me on your favorite platform<br>
+  or reach out to steven (at) stevenrick (dot) com.
 
 google_analytics: UA-XXXXXXXXX # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
@@ -199,9 +200,9 @@ enable_tooltips:            false  # enables automatic tooltip links generated
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the
                                    # navbar on the about page
-enable_project_categories:  false   # enables categorization of projects into
+enable_project_categories:  false  # enables categorization of projects into
                                    # multiple categories
-enable_medium_zoom:         false   # enables image zoom feature (as on medium.com)
+enable_medium_zoom:         false  # enables image zoom feature (as on medium.com)
 
 # -----------------------------------------------------------------------------
 # Library versions
