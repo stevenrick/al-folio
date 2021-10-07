@@ -15,7 +15,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm currently a Ph.D. Candidate in <a href="https://cse.ucsd.edu/">Computer Science and Engineering</a> specializing in Human-Centered Design. I am advised by <a href="http://weibel.ucsd.edu/">Nadir Weibel</a>.
+I'm a Ph.D. Candidate in <a href="https://cse.ucsd.edu/">Computer Science and Engineering</a> specializing in Human-Centered Design. I am advised by <a href="http://weibel.ucsd.edu/">Nadir Weibel</a>.
 
 My dissertation focuses on the sensing of nonverbal behavior between doctors and patients in order to elucidate links between communication and equitable health outcomes. I use mixed methods to understand interpersonal interactions and contextual dynamics, and my work seeks to inform the design of future AI systems to better facilitate human collaboration.
 
