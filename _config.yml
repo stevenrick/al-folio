@@ -65,6 +65,8 @@ wikidata_id: # your wikidata id
 dblp_url: https://dblp.org/pid/157/4006 # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
+rss_icon: true
+
 contact_note: >
   Feel free to connect with me on your favorite platform<br>
   or reach out to steven (at) stevenrick (dot) com.
