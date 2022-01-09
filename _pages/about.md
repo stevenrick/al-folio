@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Member of the <a href="https://hxi.ucsd.edu/">HXI Research Lab</a> and the <a href="https://designlab.ucsd.edu/">Design Lab</a> at UC San Diego.
+subtitle: Member of the <a href="https://hxi.ucsd.edu/">HXI Research Lab</a> and the <a href="https://designlab.ucsd.edu/">Design Lab</a> at UC San Diego.
 
 profile:
   align: right
@@ -11,7 +11,7 @@ profile:
     <p></p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
