@@ -21,6 +21,16 @@ My dissertation focuses on the sensing of nonverbal behavior between doctors and
 
 My work spans the fields of user experience, biomedical informatics, human behavior sensing, and applied machine learning.
 
+I am passionate about equity across both healthcare and technology.
+
+I believe all people are entitled to a healthy life and should benefit from modern computing. Unfortunately that isn't the case due to identity factors such as race, gender, ethnicity, and systemic oppression.
+
+We can each better our community through active participation in equity activities, as such I...
+- Am a core contributor to the <a href="https://www.unbiased.health/">UnBIASED Project</a>
+- Participated in the first cohort of the <a href="https://identity.cs.duke.edu/fellows.html">Cultural Competency in Computing (3C) Fellowship</a>
+- Helped to establish the <a href="https://cse.ucsd.edu/diversity/cse-dei-committee">CSE DEI Committee</a> and the <a href="http://csecelebration.ucsd.edu/">CSE Celebration of Diversity</a>
+- Have served on the leadership board for <a href="https://gradwic.ucsd.edu/">Graduate Women in Computing</a>
+
 As a computer scientist and technologist I strive to create systems that alleviate human problems and enhance end-user experiences. As a social scientist and designer I acknowledge that technology may not always be the right answer. Before crafting answers you must understand the problem and people who face it.
 
 Education
